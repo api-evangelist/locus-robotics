@@ -1,0 +1,14 @@
+{
+  "repo": "locus-robotics",
+  "feeds": [
+    {
+      "source": "https://locusrobotics.com/locusone/automated-warehouse-software/integrations",
+      "feed_url": "https://locusrobotics.com/feed",
+      "title": "",
+      "saved": 2,
+      "method": "discovered"
+    }
+  ],
+  "post_count": 2,
+  "fetched": "2026-07-25T15:00:33Z"
+}

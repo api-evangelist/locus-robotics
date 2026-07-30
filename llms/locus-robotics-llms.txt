@@ -1,0 +1,34 @@
+# Locus Robotics
+
+> Locus Robotics is a warehouse-automation company that pairs autonomous mobile robots (AMRs) with an intelligent orchestration platform, LocusONE. Its robots (Locus Array, Locus Origin, Locus Vector) and the LocusHub business-intelligence engine help distribution and fulfillment operations raise pick rates and reduce labor. LocusONE integrates with warehouse management systems (WMS) through APIs. There is no public developer portal or published API specification; integration is delivered through the WMS/ERP partner program.
+
+## Company
+- [Locus Robotics website](https://locusrobotics.com/): Company homepage.
+- [Company](https://locusrobotics.com/company): About Locus Robotics.
+- [Leadership](https://locusrobotics.com/company/leadership): Executive team.
+- [Partners — Locus Global Alliance Network](https://locusrobotics.com/company/partners): WMS software providers, material-handling integrators, supply-chain consultants, and referral partners.
+- [Trust Center](https://locusrobotics.com/company/trust-center): Security and compliance posture (SOC 2 Type II, GDPR).
+
+## Products
+- [LocusONE Platform](https://locusrobotics.com/locusone): Data-science-driven orchestration platform for AMR fleets.
+- [Integrations](https://locusrobotics.com/locusone/automated-warehouse-software/integrations): WMS/ERP integration overview.
+- [LocusHub](https://locusrobotics.com/locusone/ai-business-intelligence/locushub): Warehouse dashboard, KPI reporting, and AI-powered intelligence.
+- [Solutions](https://locusrobotics.com/solutions): Warehouse automation solutions.
+- [Industries](https://locusrobotics.com/industries): Verticals served.
+
+## Docs & Resources
+- [Resources](https://locusrobotics.com/resources): Case studies, videos, guides.
+- [Blog](https://locusrobotics.com/blog): Company blog.
+- [News](https://locusrobotics.com/news): Press and announcements.
+- [Support](https://locusrobotics.com/support): Customer support.
+
+## Open Source
+- [Locus Robotics on GitHub](https://github.com/locusrobotics): 100+ public ROS / robotics open-source repositories (e.g. fuse sensor-fusion library, robot_navigation, catkin_virtualenv, aiorospy). These are robotics engineering libraries, not a product API SDK.
+
+## Legal
+- [Terms of Service](https://locusrobotics.com/company/legal/terms-of-service)
+- [Privacy Policy](https://locusrobotics.com/company/legal/privacy)
+
+## API Evangelist artifacts
+- [Domain security probe](https://raw.githubusercontent.com/api-evangelist/locus-robotics/refs/heads/main/security/locus-robotics-domain-security.yml): TLS/HSTS/SPF/DMARC posture.
+- [Trust center](https://raw.githubusercontent.com/api-evangelist/locus-robotics/refs/heads/main/security/locus-robotics-trust-center.yml): Captured certifications.

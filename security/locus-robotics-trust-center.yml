@@ -1,0 +1,17 @@
+generated: '2026-07-20'
+method: searched
+source: https://locusrobotics.com/company/trust-center
+url: https://locusrobotics.com/company/trust-center
+certifications:
+- SOC 2 Type II
+- GDPR
+notes: >-
+  Locus Robotics publishes a Trust Center describing its enterprise security,
+  privacy, and data-protection posture. It states SOC 2 Type II compliance with a
+  public-facing SOC 3 report and references GDPR as part of its privacy and data
+  protection framework. No ISO 27001, PCI DSS, HIPAA, or FedRAMP claims were found
+  on the page. Data Subject Access Requests are handled at
+  https://locusrobotics.com/company/trust-center/dsar.
+evidence:
+- source: https://locusrobotics.com/company/trust-center
+  keywords: [soc 2 type ii, soc 3, gdpr, trust center]
