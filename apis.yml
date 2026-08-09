@@ -12,16 +12,14 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/locus-robotics.png
 name: Locus Robotics
-description: >-
-  Locus Robotics is a warehouse-automation company that pairs autonomous mobile robots (AMRs)
-  with an intelligent orchestration platform. Its robot line — Locus Array (Robots-to-Goods),
-  Locus Origin, and Locus Vector — works alongside the LocusONE platform and the LocusHub
-  business-intelligence engine to raise pick/putaway rates and reduce labor across distribution
-  and fulfillment operations. LocusONE integrates with warehouse management systems (WMS) and
-  ERP platforms through APIs delivered via the Locus Global Alliance Network partner program;
-  the company also maintains 100+ open-source ROS robotics repositories on GitHub. There is no
-  public self-serve developer portal or published API specification — integration is arranged
-  through partners and direct engagement.
+description: Locus Robotics is a warehouse-automation company that pairs autonomous mobile robots (AMRs)
+  with an intelligent orchestration platform. Its robot line — Locus Array (Robots-to-Goods), Locus Origin,
+  and Locus Vector — works alongside the LocusONE platform and the LocusHub business-intelligence engine
+  to raise pick/putaway rates and reduce labor across distribution and fulfillment operations. LocusONE
+  integrates with warehouse management systems (WMS) and ERP platforms through APIs delivered via the
+  Locus Global Alliance Network partner program; the company also maintains 100+ open-source ROS robotics
+  repositories on GitHub. There is no public self-serve developer portal or published API specification
+  — integration is arranged through partners and direct engagement.
 url: https://raw.githubusercontent.com/api-evangelist/locus-robotics/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -31,7 +29,7 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-20'
+modified: '2026-08-08'
 tags:
 - Company
 - Robotics
@@ -74,8 +72,12 @@ common:
   url: security/locus-robotics-domain-security.yml
 - type: LLMsTxt
   url: llms/locus-robotics-llms.txt
+- type: WellKnown
+  url: well-known/locus-robotics-well-known.yml
 x-enrichment:
   date: '2026-07-20'
   status: enriched
   artifacts_added: 3
   pass: local-v1
+x-merged-from:
+- locusrobotics
